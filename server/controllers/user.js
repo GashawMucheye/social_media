@@ -1,5 +1,5 @@
-const userControl = (req, res) => {
+const getUser = (req, res) => {
   res.send('testing works!');
 };
 
-export { userControl };
+export { getUser };
